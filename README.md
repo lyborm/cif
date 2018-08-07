@@ -1,5 +1,5 @@
 # Free Chinese localization project for Indie Game 
-## *Author FCIG project*
+### *Author FCIG project*
 ------
 ## What is FCIG project?
 > If you are developer or publisher of Indie games, we localize your *FIRST* game from English to Chinese __WITHOUT ANY CHARGE__.
